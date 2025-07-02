@@ -21,6 +21,7 @@ const ThemeToggle: React.FC = () => {
       </div>
       
       {/* Glow effect */}
+    
       <div className={`absolute inset-0 rounded-xl transition-all duration-300 ${
         isDark 
           ? 'bg-blue-400/20 shadow-lg shadow-blue-400/25' 
