@@ -121,11 +121,11 @@ const DeveloperDashboard: React.FC = () => {
               <ThemeToggle />
               <div className="flex items-center space-x-3">
                 <div className="text-right hidden sm:block">
-                  <p className="text-sm font-medium text-gray-900 dark:text-white">John Doe</p>
+                  <p className="text-sm font-medium text-gray-900 dark:text-white">Muhammad Ibrahim</p>
                   <p className="text-xs text-gray-500 dark:text-gray-400">Senior Developer</p>
                 </div>
                 <div className="w-8 h-8 bg-primary-600 rounded-full flex items-center justify-center">
-                  <span className="text-white text-sm font-medium">JD</span>
+                  <span className="text-white text-sm font-medium">IB</span>
                 </div>
               </div>
             </div>
@@ -363,9 +363,9 @@ const DeveloperDashboard: React.FC = () => {
                     <span className="text-white text-2xl font-bold">JD</span>
                   </div>
                   <div>
-                    <h2 className="text-2xl font-bold text-gray-900 dark:text-white">John Doe</h2>
+                    <h2 className="text-2xl font-bold text-gray-900 dark:text-white">Muhammad Ibrahim</h2>
                     <p className="text-gray-600 dark:text-gray-400">Senior Full-Stack Developer</p>
-                    <p className="text-sm text-gray-500 dark:text-gray-500">Member since 2023</p>
+                    <p className="text-sm text-gray-500 dark:text-gray-500">Member since 2023 SMIT</p>
                   </div>
                 </div>
 
@@ -384,9 +384,9 @@ const DeveloperDashboard: React.FC = () => {
                   <div>
                     <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-4">Contact Information</h3>
                     <div className="space-y-2 text-gray-600 dark:text-gray-400">
-                      <p>📧 john.doe@example.com</p>
-                      <p>🌐 github.com/johndoe</p>
-                      <p>💼 linkedin.com/in/johndoe</p>
+                      <p>📧 ibrahimcom@example.com</p>
+                      <p>🌐 github.com/ibrahimcs51</p>
+                      <p>💼 linkedin.com/in/muhammad ibrahim</p>
                     </div>
                   </div>
                 </div>
