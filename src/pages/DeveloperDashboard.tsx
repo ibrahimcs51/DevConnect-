@@ -360,7 +360,7 @@ const DeveloperDashboard: React.FC = () => {
               <Card className="p-8">
                 <div className="flex items-center space-x-6 mb-8">
                   <div className="w-24 h-24 bg-primary-600 rounded-full flex items-center justify-center">
-                    <span className="text-white text-2xl font-bold">JD</span>
+                    <span className="text-white text-2xl font-bold">IB</span>
                   </div>
                   <div>
                     <h2 className="text-2xl font-bold text-gray-900 dark:text-white">Muhammad Ibrahim</h2>
